@@ -17,7 +17,8 @@ Procedure:
 4. Collect feedback or inputs from users and adapt responses accordingly.
 5. (Optional) Integrate basic memory to simulate preference adaptation.
 EXPECTED OUTPUT: - (attached the drive link)
-Output (Example Response by LLM):
+Output (Example Response by LLM):[prompt ex 07.docx](https://github.com/user-attachments/files/24360458/prompt.ex.07.docx)
+
 Personal Productivity Assistant Features:
 1. Daily Task Manager:
 o Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
